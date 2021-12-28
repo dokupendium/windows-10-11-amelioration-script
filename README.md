@@ -1,5 +1,5 @@
 # windows-10-amelioration-script
-This script will ameliorate your windows 10 operating system.  Your system will be free of bloatware and unwanted programs that slow down your machine. This is basically a swiss army knife for amelioration.  A plathora of Windows tools at your service.
+This script will ameliorate your windows 10 or Windows 11 operating system.  Your system will be free of bloatware and unwanted programs that slow down your machine. This is basically a swiss army knife for amelioration.  A plathora of Windows tools at your service.
 
 ## Additions
 - One command to run
